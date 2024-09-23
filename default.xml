@@ -18,6 +18,6 @@
 
     <project
         name="emscripten-core/emsdk" remote="github"
-        path="emsdk"
+        path=".."
     />
 </manifest>
